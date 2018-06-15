@@ -1,3 +1,3 @@
 let's learn git branch
 
-change dev branch
+Creating a new branch is quick AND simple.
